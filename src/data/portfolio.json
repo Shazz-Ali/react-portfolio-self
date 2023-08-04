@@ -1,35 +1,18 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com",
-      "url2": "http://gmail.com"
+      "cover": "/portfolio/1/travel.jpg",
+      "title": "TRAVEL LIST",
+      "description": "React, JSX, Javascript, Hooks",
+      "url": "https://react-travel-list-pied.vercel.app/",
+      "url2": "https://github.com/alishanu0041/react-portfolio-self/tree/master/src"
     },
     {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
-    },
-    {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
-    },
-    {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
-    },
-    {
-      "cover": "/portfolio/1/one.png",
-      "title": "GGWP",
-      "description": "React, JSX, Tailwind, Jest",
-      "url": "http://google.com"
+      "cover": "/portfolio/1/pizza.jpg",
+      "title": "PIZZA MENU",
+      "description": "React, JSX, Javascript, Hooks",
+      "url": "https://pizza-menu-taupe.vercel.app/",
+      "url2": "https://github.com/alishanu0041/pizza-menu"
     }
   ]
 }
