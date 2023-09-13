@@ -1,18 +1,32 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/1/resume.jpg",
+      "title": "RESUME BUILDER",
+      "description": "React Js, Javascript, React Router, Tailwind CSS, Hooks",
+      "url": "https://react-resume-builder-project.vercel.app/",
+      "url2": "https://github.com/Shazz-Ali/resume-builder"
+    },
+    {
+      "cover": "/portfolio/1/eatnsplit.jpg",
+      "title": "EAT-N-SPLIT",
+      "description": "React Js, Javascript, React Router, Hooks",
+      "url": "https://react-eat-n-split.vercel.app/",
+      "url2": "https://github.com/Shazz-Ali/react-eat-n-split"
+    },
+    {
       "cover": "/portfolio/1/travel.jpg",
       "title": "TRAVEL LIST",
-      "description": "React, JSX, Javascript, Hooks",
+      "description": "React Js, Javascript, Hooks",
       "url": "https://react-travel-list-pied.vercel.app/",
-      "url2": "https://github.com/alishanu0041/react-portfolio-self/tree/master/src"
+      "url2": "https://github.com/Shazz-Ali/react-portfolio-self/tree/master/src"
     },
     {
       "cover": "/portfolio/1/pizza.jpg",
       "title": "PIZZA MENU",
-      "description": "React, JSX, Javascript, Hooks",
+      "description": "React Js, Javascript, Hooks",
       "url": "https://pizza-menu-taupe.vercel.app/",
-      "url2": "https://github.com/alishanu0041/pizza-menu"
+      "url2": "https://github.com/Shazz-Ali/pizza-menu"
     }
   ]
 }
