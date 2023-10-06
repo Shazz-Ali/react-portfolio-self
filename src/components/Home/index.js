@@ -74,7 +74,7 @@ const Home = () => {
             CONTACT ME
           </Link>
           <a
-            href="https://drive.google.com/file/d/1Wt_osuK7Td_OTyYNeNBi3zdkxVH6TVDU/view?usp=sharing"
+            href="https://drive.google.com/file/d/1rcfc4wqxuWVgWmcUVoZDnrb4DLI3Q_QI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="flat-button"
