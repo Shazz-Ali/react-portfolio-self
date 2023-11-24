@@ -87,7 +87,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/alishanu0041"
+            href="https://github.com/"
             target="_blank"
             rel="noreferrer"
           >
@@ -100,7 +100,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.youtube.com/@shahnawazali2547"
+            href="https://www.youtube.com/"
             rel="noreferrer"
             target="_blank"
           >
@@ -113,7 +113,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://www.instagram.com/_shzali_/"
+            href="https://www.instagram.com/"
             rel="noreferrer"
             target="_blank"
           >
